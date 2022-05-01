@@ -1,7 +1,6 @@
 package com.kennedy;
 
 import software.amazon.awssdk.regions.Region;
-import software.amazon.awssdk.services.sns.SnsAsyncClient;
 import software.amazon.awssdk.services.sns.SnsClient;
 
 public class Client {
